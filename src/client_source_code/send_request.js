@@ -1,8 +1,8 @@
 import recognizeCaptchan from '../utils/recognizeNumberCaptchan.js';
 import str_to_binary from '../utils/strToBinary.js';
 import { check_first_captchan_parameters, check_captchan_parameters } from '../client_source_code/ABParameters.js';
-// this function handles the messangin to the serve
-// sometimes the server will as for a captchan, this function handles everytime the server
+// this function handles the messangin to the server
+// sometimes the server will ask for a captchan, this function handles it everytime the server
 // asks for it.
 
 // followAlong placeholder

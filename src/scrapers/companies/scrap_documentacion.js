@@ -48,12 +48,6 @@ export default async (page, path, log) => {
     */
     //console.log(all_rows)
 
-
-
-
-
-
-
     /*
     fetched_table.forEach(
         table => table.cells.forEach(
